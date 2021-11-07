@@ -8,7 +8,7 @@
 
 
 #content_left{
-    width:100%!important;
+    width:inherit!important;
 }
 
 .nums, .search_tool_conter {
