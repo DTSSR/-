@@ -18,7 +18,7 @@
 
 /* 局部设置 */
 #form{
-    position: absolute!important;
+    position: relative!important;
     width: 641px !important;
     top: 0;
     left: 0;
