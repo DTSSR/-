@@ -9,6 +9,7 @@
 
 #content_left{
     width:inherit!important;
+    margin: auto!important;
 }
 
 .nums, .search_tool_conter {
@@ -18,7 +19,7 @@
 /* 局部设置 */
 #form{
     position: absolute!important;
-    width: 600px !important;
+    width: 641px !important;
     top: 0;
     left: 0;
     bottom: 0;
